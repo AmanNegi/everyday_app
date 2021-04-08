@@ -56,9 +56,7 @@ To tackle the problem selected we made an app that provides these features:
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/AmanNegi/everyday_app/blob/main/screenshots/Screenshot_20210408-205328_2.png?raw=true">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/AmanNegi/everyday_app/blob/main/screenshots/Screenshot_20210408-205336_2.png?raw=true">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/AmanNegi/everyday_app/blob/main/screenshots/Screenshot_20210408-205343_3.png?raw=true">|
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/AmanNegi/everyday_app/blob/main/screenshots/Screenshot_20210408-205347_2.png?raw=true">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/AmanNegi/everyday_app/blob/main/screenshots/Screenshot_20210408-205351_2.png?raw=true">|
 
-[<img src="https://github.com/AmanNegi/everyday_app/blob/main/screenshots/Screenshot_20210408-205301_2.png?raw=true" width="100",height=100>](https://youtu.be/<VIDEO ID>)
-
-[![Watch the video here:](https://github.com/AmanNegi/everyday_app/blob/main/screenshots/demo_video.mp4)
+Watch video [here](https://github.com/AmanNegi/everyday_app/blob/main/screenshots/demo_video.mp4)
 
 ## Project Setup
 
