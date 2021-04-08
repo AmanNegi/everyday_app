@@ -36,7 +36,6 @@ To tackle the problem selected we made an app that provides these features:
 
 > version 1.0.0
 
-Flutter 30 days challenge is a app build during the #30daysofflutterchallenge. It contains of several demo UI's which I took as challenge for particular date. You can the code for each page in this repository.
 
 ### App Screens
 
