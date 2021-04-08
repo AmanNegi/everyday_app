@@ -97,7 +97,7 @@ flutter doctor
 
 For help getting started with Flutter, check [online documentation](https://flutter.dev/docs), which offers great tutorials, samples, guidance on mobile development, and a full API reference. If you run into any issue or question, feel free to reach out to us via email asterjoules@gmail.com.
 
-### Flutter packages used in flutter_30_days:
+### Flutter packages used in Everyday App:
 
 *  feature_discovery
 *  flutter_svg
