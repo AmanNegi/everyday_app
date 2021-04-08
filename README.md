@@ -106,7 +106,7 @@ For help getting started with Flutter, check [online documentation](https://flut
 
 ## Feel Free to Contract
 
-* Gmail(Aman Negi) : asterjoulesgmail.com
-* Gmail(Aman Rubey) : aman.rubey@gmail.com
+* Aman Negi : asterjoules@gmail.com
+* Aman Rubey : aman.rubey@gmail.com
 
 
