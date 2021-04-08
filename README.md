@@ -55,7 +55,8 @@ To tackle the problem selected we made an app that provides these features:
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/AmanNegi/everyday_app/blob/main/screenshots/Screenshot_20210408-205301_2.png?raw=true">  Page 1 | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/AmanNegi/everyday_app/blob/main/screenshots/Screenshot_20210408-205320_2.png?raw=true"> Page 2 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/AmanNegi/everyday_app/blob/main/screenshots/Screenshot_20210408-205324_2.png?raw=true">|
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/AmanNegi/everyday_app/blob/main/screenshots/Screenshot_20210408-205328_2.png?raw=true">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/AmanNegi/everyday_app/blob/main/screenshots/Screenshot_20210408-205336_2.png?raw=true">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/AmanNegi/everyday_app/blob/main/screenshots/Screenshot_20210408-205343_3.png?raw=true">|
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/AmanNegi/everyday_app/blob/main/screenshots/Screenshot_20210408-205347_2.png?raw=true">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/AmanNegi/everyday_app/blob/main/screenshots/Screenshot_20210408-205351_2.png?raw=true">|
-[![Watch the video](https://github.com/AmanNegi/everyday_app/blob/main/screenshots/demo_video.mp4)
+
+[![Watch the video](https://github.com/AmanNegi/everyday_app/blob/main/screenshots/Screenshot_20210408-205301_2.png?raw=true)(https://github.com/AmanNegi/everyday_app/blob/main/screenshots/demo_video.mp4)
 
 ## Project Setup
 
