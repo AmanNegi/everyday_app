@@ -17,7 +17,7 @@ We selected this problem as this has been a long silent issue. However, we all a
 
 To tackle the problem selected we made an app that provides these features: 
 
-1) Our app is disguised as any other normal app(that's why it's named as the everyday app).
+1) Our app is disguised as any other normal app( that's why it's named as the everyday app ).
 
 2) We provided sections of daily articles and community posts so that women can see other women and become aware of the violence they are facing. 
 
