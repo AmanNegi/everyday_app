@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'pages/welcome_page.dart';
-import 'home_page.dart';
+import 'pages/home_page.dart';
 import "pages/call_page.dart";
 import 'pages/education_page.dart';
 import './pages/post_detail_page.dart';

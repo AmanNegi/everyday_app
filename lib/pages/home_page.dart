@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'data/data.dart';
+import '../data/data.dart';
 import 'package:mdi/mdi.dart';
-import 'widgets/side_drawer.dart';
-import 'globals.dart';
-import 'widgets/pullable_button.dart';
+import '../widgets/side_drawer.dart';
+import '../globals.dart';
+import '../widgets/pullable_button.dart';
 import 'package:feature_discovery/feature_discovery.dart';
 import 'package:flutter/scheduler.dart';
 

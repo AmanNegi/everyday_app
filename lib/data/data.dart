@@ -76,7 +76,7 @@ List<OtherItem> otherList = [
   OtherItem("Nearby Shelters", Mdi.homeOutline, MapPage()),
 ];
 
-  List questionsList = [
+List questionsList = [
   "WHAT IS DOMESTIC VIOLENCE?",
   "WHAT CONSTITUTES DOMESTIC VIOLENCE?",
   "AGAINST WHOM DOMESTIC VIOLENCE CAN BE FILED",
