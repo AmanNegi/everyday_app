@@ -29,13 +29,13 @@ To tackle the problem selected we made an app that provides these features:
 
 6) On the home screen we gave a call button so that the call can be made without any delay in case of emergency.
 
-## Authors
+<!-- ## Authors
 
 > [**Aman Negi (Aster Joules)**](https://github.com/AmanNegi)</br>
 > [**Aman Rubey**](https://github.com/AmanRubey)
 
 > version 1.0.0
-
+ -->
 
 ### App Screens
 
