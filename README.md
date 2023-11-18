@@ -107,6 +107,5 @@ For help getting started with Flutter, check [online documentation](https://flut
 ## Feel Free to Contract
 
 * Aman Negi (Developer) : asterjoules@gmail.com
-* Aman Rubey (Developer): aman.rubey@gmail.com
-* Anjali Bhandari (Designer): anjali.ray.ab96@gmail.com
+* Aman Rubey (Developer): aman.rubey@gmail.com 
 
